@@ -14,7 +14,7 @@ Decompress the zip file to your home directory of you sd-card.
 Wiring
 
 for the vs1053:
-
+```sh
     XCS -> 46
     XDCS -> 48
     DREQ -> 50
@@ -23,3 +23,4 @@ for the vs1053:
     MISO -> A.25
     SCK -> A.27
     5V -> 5V
+```
