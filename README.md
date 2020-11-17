@@ -12,7 +12,6 @@ SD librariry from https://github.com/adafruit/SD.
 
 Adafruit_GFX and MCUFRIEND_kbv can install from the library manager.
 
-Decompress the zip file to your home directory of you sd-card.
 
 Wiring
 
