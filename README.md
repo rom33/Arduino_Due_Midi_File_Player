@@ -1,7 +1,10 @@
 # Arduino_Due_Midi_File_Player
-A simple Midi file player
+A simple Media file player via vs1053 (http://www.vlsi.fi/en/products/vs1053.html)
 
-Another project using the vs1053 and the 3, 5' tft display. At the moment only the sd-card is used. General MIDI format 0 files can played.
+Another project using the vs1053 and the 3, 5' tft display and the vs1053. At the moment only the sd-card and basic touch functions. General MIDI format 0, ogg, wav and wma files can played.
+
+Put your media file in the root directory of your sd-card (MIDI format 0, ogg, wav, wma).
+Touch the screen for next title.
 
 Needed libraries:
 
